@@ -6,4 +6,12 @@
 @import "variables";
 
 // Bootstrap
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+// @import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+//Materialize-CSS
+@import "~materialize-css/sass/materialize";
+
+//custom SCSS
+@import "custom";
+
